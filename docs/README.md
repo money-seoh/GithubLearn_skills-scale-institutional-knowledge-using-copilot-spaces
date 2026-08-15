@@ -20,6 +20,6 @@ This README is the central hub for OctoAcme's project management documentation. 
 
 ## How to Use These Docs
 
-- Start with the overview to understand OctoAcme's operating model.
-- Follow the lifecycle guides in order for new initiatives.
-- Use the cross-cutting guides alongside active delivery work for role clarity, risk tracking, and communication planning.
+- Start with the [Project Management Overview](./octoacme-project-management-overview.md) to understand OctoAcme's operating model.
+- Follow the lifecycle guides in order for new initiatives: [Project Initiation](./octoacme-project-initiation.md), [Project Planning](./octoacme-project-planning.md), [Execution & Tracking](./octoacme-execution-and-tracking.md), [Release & Deployment](./octoacme-release-and-deployment.md), and [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md).
+- Use [Risk Management & Communication](./octoacme-risks-and-communication.md) and [Roles & Personas](./octoacme-roles-and-personas.md) alongside active delivery work for role clarity, risk tracking, and communication planning.
